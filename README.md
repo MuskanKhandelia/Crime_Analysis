@@ -1,9 +1,9 @@
-**Crime Analysis Power BI Project**
+# Crime Analysis Power BI Project
 
-**Overview:**
+## Overview:
 In this repository, you will find a Power BI project that analyzes a crime dataset. The project encompasses various stages, including data cleaning, modeling, and visualization, aimed at extracting valuable insights from the dataset.
 
-**Project Workflow:**
+## Project Workflow:
 1. **Data Cleaning and Formatting:**
    - Utilized Power Query to clean and format the raw crime dataset, ensuring data consistency and quality.
 
@@ -19,7 +19,7 @@ In this repository, you will find a Power BI project that analyzes a crime datas
    - Designed a comprehensive report comprising multiple dashboards to visualize key findings.
    - Implemented drill-through functionality for detailed exploration of time and weekday features.
 
-**Dashboard Tasks:**
+## Insights:
 1. **Total Crimes:**
    - Provides a summation of all reported crimes in the dataset.
 
