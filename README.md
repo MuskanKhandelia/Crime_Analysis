@@ -19,7 +19,7 @@ In this repository, you will find a Power BI project that analyzes a crime datas
    - Designed a comprehensive report comprising multiple dashboards to visualize key findings.
    - Implemented drill-through functionality for detailed exploration of time and weekday features.
 
-## Insights:
+## Key Analysis Areas:
 1. **Total Crimes:**
    - Provides a summation of all reported crimes in the dataset.
 
