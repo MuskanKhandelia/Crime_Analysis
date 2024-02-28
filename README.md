@@ -44,6 +44,7 @@ In this repository, you will find a Power BI project that analyzes a crime datas
 8. **Identification of the Most Dangerous Time of the Day:**
    - Pinpoints specific time periods associated with a higher frequency of crimes.
 
-![image](https://github.com/MuskanKhandelia/Crime_Analysis/assets/65664089/76cc0e73-f074-4c6a-8e64-f15f7a754050)
+![image](https://github.com/MuskanKhandelia/Crime_Analysis/assets/65664089/83fc0a43-3caf-4c55-9082-75cdade365ad)
 
-![image](https://github.com/MuskanKhandelia/Crime_Analysis/assets/65664089/959ae8a6-0ede-4b49-9d9c-bb30e2c96e02)
+![image](https://github.com/MuskanKhandelia/Crime_Analysis/assets/65664089/c0b0dcfe-2521-43ce-b50c-7e1e6e54e5a7)
+
